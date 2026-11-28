@@ -1,6 +1,6 @@
 ## Hi everyone !
 
-![profile picture](C:\Users\user\Downloads\mygit\giorgia-bottinelli.github.io\imgs)
+![profile picture](imgs/SAM_4829.jpg)
 
 I'm Giorgia Bottinelli, a first year master student at [University of Milan](https://www.unimi.it/it/corsi/laurea-magistrale/comunicazione-pubblica-e-dimpresa-com) in Corporate Communication (COM course).
 
